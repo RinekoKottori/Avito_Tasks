@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         ""
     ],
-    "maven.view": "hierarchical"
+    "maven.view": "hierarchical",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
